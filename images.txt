@@ -1,1 +1,1 @@
-fastdfs
+registry.cn-beijing.aliyuncs.com/tianzuo/fastdfs
